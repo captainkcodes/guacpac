@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  color:#482c3d;
+  background-color: #e5d352;
+}
+
+
+.App-header {
+  background-color: #d9e76c;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #482c3d;
+  border: double black;
+}
+
